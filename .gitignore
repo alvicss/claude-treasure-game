@@ -1,3 +1,6 @@
+# Claude Code 本地設定（含本機路徑，不上傳）
+.claude/
+
 # Logs
 logs
 *.log
