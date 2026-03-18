@@ -1,7 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(cd \"D:\\\\MyData\\\\Ai_Work\\\\claude_code_treasure_game-initial\" && npm run dev)"
-    ]
-  }
-}
